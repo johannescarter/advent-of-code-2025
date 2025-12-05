@@ -2,7 +2,7 @@ import math
 
 # read input
 data = []
-with open("../in/input.txt", "r") as f:
+with open("in/input.txt", "r") as f:
     data = f.read().splitlines()
 
 # variable inits
